@@ -4,7 +4,7 @@
 <h1 align="center" >TITLE</h1>
 <div align="center">
     <br/>
-    <h3>Sub title</h3>
+    <h3>Subtitle</h3>
     <p>Built by <b>Team name</b></p>
     <br/>
 </div>
@@ -28,7 +28,7 @@
 [![Version](https://img.shields.io/github/package-json/v/:owner/:repo.svg)]()
 [![Activity](https://img.shields.io/github/last-commit/:owner/:repo.svg)]()
 
-**Repo name** is <description>.
+**Repo name** is <SOMETHING>.
 
 [Overview](#1-overview)&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;[Features](#2-features)&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;[Architecture](#3-architecture)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Prerequisites](#4-prerequisites)&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;[Installing](#5-installing)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Running the tests](#6-running-the-tests)&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;[Deployment](#7-deployment)&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;[Contributions](#8-contributions)&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;[License](#9-license)
 
@@ -82,6 +82,7 @@ Description.
 
 ```
 yarn test
+yarn test
 ```
 
 <img src="#" alt="some instruction">
@@ -96,14 +97,14 @@ Description.
 
 # 8. Contributiuons
 
-Look at [Contributions.md](Contributions.md) for further explanation.
+Look at [CONTRIBUTING.md](#) for the guidelines.
 
 <img src="#" alt="some instruction">
 
 
 # 9. License
 
-Description.
+Content submitted to [this app]() is #### licensed, as found in the [LICENSE-DOCS.md](#) file.
 
 <img src="#" alt="some instruction">
 
