@@ -95,7 +95,7 @@ Description.
 <img src="#" alt="some instruction">
 
 
-# 8. Contributiuons
+# 8. Contributions
 
 Look at [CONTRIBUTING.md](#) for the guidelines.
 
