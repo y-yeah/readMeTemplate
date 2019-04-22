@@ -20,7 +20,7 @@
   <a href="#"><img src="https://img.shields.io/circleci/project/:vcsType/:owner/:repo.svg?style=flat-square"></a>
   <a href="#"><img src="https://img.shields.io/github/repo-size/:owner/:repo.svg?style=flat-square"></a>
   <a href="#"><img src="https://img.shields.io/github/issues-pr-raw/:owner/:repo.svg?style=flat-square"></a>
-  <a href="#"><img src="https://img.shields.io/github/forks/:owner/:repo.svg?label=Fork?style=flat-square"></a>
+  <a href="#"><img src="https://img.shields.io/github/forks/:owner/:repo.svg?label=Fork&&style=flat-square"></a>
   <a href="#"><img src="https://img.shields.io/github/package-json/v/:owner/:repo.svg?style=flat-square"></a>
   <a href="#"><img src="https://img.shields.io/github/last-commit/:owner/:repo.svg?style=flat-square"></a>
 </div>
