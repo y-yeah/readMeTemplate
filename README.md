@@ -15,7 +15,6 @@
 <div align="center">
   <a href="#"><img src="https://img.shields.io/npm/v/:repo.svg?style=flat-square"></a>
   <a href="#"><img src="https://img.shields.io/npm/dm/:repo.svg?style=flat-square"></a>
-  <a href="#"><img src="https://img.shields.io/npm/v/:repo.svg?style=flat-square"></a>
   <a href="#"><img src="https://img.shields.io/circleci/project/:vcsType/:owner/:repo.svg?style=flat-square"></a>
   <a href="#"><img src="https://img.shields.io/github/repo-size/:owner/:repo.svg?style=flat-square"></a>
   <a href="#"><img src="https://img.shields.io/github/issues-pr-raw/:owner/:repo.svg?style=flat-square"></a>
@@ -25,8 +24,9 @@
 </div>
 
 <div align="center">
+  <br />
 **Repo name** is <SOMETHING>.
-
+  <br />
 [Overview](#1-overview)&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;[Features](#2-features)&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;[Architecture](#3-architecture)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Prerequisites](#4-prerequisites)&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;[Installing](#5-installing)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Running the tests](#6-running-the-tests)&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;[Deployment](#7-deployment)&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;[Contributions](#8-contributions)&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;[License](#9-license)
 
 </div>
