@@ -10,6 +10,7 @@
 
 <div align="center">
   説明文 for <a href="#">Title</a>
+  <br />
 </div>
 
 <div align="center">
@@ -25,11 +26,11 @@
 
 <div align="center">
   <br />
-**Repo name** is <SOMETHING>.
+  <p><b>Repo name</b> is SOMETHING.</p>
   <br />
-[Overview](#1-overview)&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;[Features](#2-features)&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;[Architecture](#3-architecture)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Prerequisites](#4-prerequisites)&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;[Installing](#5-installing)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Running the tests](#6-running-the-tests)&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;[Deployment](#7-deployment)&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;[Contributions](#8-contributions)&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;[License](#9-license)
-
 </div>
+
+[Overview](#1-overview)&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;[Features](#2-features)&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;[Architecture](#3-architecture)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Prerequisites](#4-prerequisites)&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;[Installing](#5-installing)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Running the tests](#6-running-the-tests)&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;[Deployment](#7-deployment)&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;[Contributions](#8-contributions)&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;[License](#9-license)
 
 ---
 
