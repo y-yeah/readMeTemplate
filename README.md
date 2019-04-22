@@ -16,13 +16,13 @@
   <a href="https://www.npmjs.com/package/react-router"><img src="https://img.shields.io/npm/v/react-router.svg?style=flat-square"></a>
   <a href="https://www.npmjs.com/package/react-router"><img src="https://img.shields.io/npm/dm/react-router.svg?style=flat-square"></a>
   <a href="https://travis-ci.org/ReactTraining/react-router"><img src="https://img.shields.io/travis/ReactTraining/react-router/master.svg?style=flat-square"></a>
+</div>
 [![Build](https://img.shields.io/circleci/project/:vcsType/:owner/:repo.svg)]()
 [![Size](https://img.shields.io/github/repo-size/:owner/:repo.svg)]()
 [![Issue Tracking](https://img.shields.io/github/issues-pr-raw/:owner/:repo.svg)]()
 [![Social](https://img.shields.io/github/forks/:owner/:repo.svg?label=Fork)]()
 [![Version](https://img.shields.io/github/package-json/v/:owner/:repo.svg)]()
 [![Activity](https://img.shields.io/github/last-commit/:owner/:repo.svg)]()
-</div>
 
 
 **Repo name** is <SOMETHING>.
@@ -36,6 +36,15 @@
 # 1. Overview
 
 Description.
+
+| Package                                                | Version                                                                                                                             | Docs                                                                                                                                                                                                                                                                          | Description                                                                        |
+| ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| [`something`](#)               | [![npm](https://img.shields.io/npm/v/react-router.svg?style=flat-square)](https://www.npmjs.com/package/:repo)               | [![](https://img.shields.io/badge/API%20Docs-site-green.svg?style=flat-square)](https://reacttraining.com/react-router/core/guides/quick-start) [![](https://img.shields.io/badge/API%20Docs-markdown-lightgrey.svg?style=flat-square)](/packages/:repo)          | Something                                                           |
+| [`something`](#)               | [![npm](https://img.shields.io/npm/v/react-router.svg?style=flat-square)](https://www.npmjs.com/package/:repo)               | [![](https://img.shields.io/badge/API%20Docs-site-green.svg?style=flat-square)](https://reacttraining.com/react-router/core/guides/quick-start) [![](https://img.shields.io/badge/API%20Docs-markdown-lightgrey.svg?style=flat-square)](/packages/:repo)          | Something                                                           |
+| [`something`](#)               | [![npm](https://img.shields.io/npm/v/react-router.svg?style=flat-square)](https://www.npmjs.com/package/:repo)               | [![](https://img.shields.io/badge/API%20Docs-site-green.svg?style=flat-square)](https://reacttraining.com/react-router/core/guides/quick-start) [![](https://img.shields.io/badge/API%20Docs-markdown-lightgrey.svg?style=flat-square)](/packages/:repo)          | Something                                                           |
+| [`something`](#)               | [![npm](https://img.shields.io/npm/v/react-router.svg?style=flat-square)](https://www.npmjs.com/package/:repo)               | [![](https://img.shields.io/badge/API%20Docs-site-green.svg?style=flat-square)](https://reacttraining.com/react-router/core/guides/quick-start) [![](https://img.shields.io/badge/API%20Docs-markdown-lightgrey.svg?style=flat-square)](/packages/:repo)          | Something                                                           |
+
+> **SOMETHING:** bluh bluh.
 
 <img src="#" alt="some instruction">
 
@@ -70,14 +79,7 @@ Description.
 
 `yarn`
 
-| Package                                                | Version                                                                                                                             | Docs                                                                                                                                                                                                                                                                          | Description                                                                        |
-| ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| [`something`](#)               | [![npm](https://img.shields.io/npm/v/react-router.svg?style=flat-square)](https://www.npmjs.com/package/:repo)               | [![](https://img.shields.io/badge/API%20Docs-site-green.svg?style=flat-square)](https://reacttraining.com/react-router/core/guides/quick-start) [![](https://img.shields.io/badge/API%20Docs-markdown-lightgrey.svg?style=flat-square)](/packages/:repo)          | Something                                                           |
-| [`something`](#)               | [![npm](https://img.shields.io/npm/v/react-router.svg?style=flat-square)](https://www.npmjs.com/package/:repo)               | [![](https://img.shields.io/badge/API%20Docs-site-green.svg?style=flat-square)](https://reacttraining.com/react-router/core/guides/quick-start) [![](https://img.shields.io/badge/API%20Docs-markdown-lightgrey.svg?style=flat-square)](/packages/:repo)          | Something                                                           |
-| [`something`](#)               | [![npm](https://img.shields.io/npm/v/react-router.svg?style=flat-square)](https://www.npmjs.com/package/:repo)               | [![](https://img.shields.io/badge/API%20Docs-site-green.svg?style=flat-square)](https://reacttraining.com/react-router/core/guides/quick-start) [![](https://img.shields.io/badge/API%20Docs-markdown-lightgrey.svg?style=flat-square)](/packages/:repo)          | Something                                                           |
-| [`something`](#)               | [![npm](https://img.shields.io/npm/v/react-router.svg?style=flat-square)](https://www.npmjs.com/package/:repo)               | [![](https://img.shields.io/badge/API%20Docs-site-green.svg?style=flat-square)](https://reacttraining.com/react-router/core/guides/quick-start) [![](https://img.shields.io/badge/API%20Docs-markdown-lightgrey.svg?style=flat-square)](/packages/:repo)          | Something                                                           |
-
-> **SOMETHING:** bluh bluh.
+<img src="#" alt="some instruction">
 
 
 # 6. Running the tests
