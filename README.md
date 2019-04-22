@@ -5,11 +5,11 @@
 </div>
 
 <h3 align="center">
-  Title
+  タイトル
 </h3>
 
 <div align="center">
-  説明文 for <a href="#">Title</a>
+  <a href="#">タイトル</a>のための説明文です。 
   <br />
   <br />
 </div>
@@ -27,7 +27,7 @@
 
 <div align="center">
   <br />
-  <p><b>Repo name</b> is SOMETHING.</p>
+  <p><b>このリポジトリ</b>はこういうものです。</p>
   <br />
 </div>
 
@@ -39,14 +39,14 @@
 
 Description.
 
-| Package                                                | Version                                                                                                                             | Docs                                                                                                                                                                                                                                                                          | Description                                                                        |
+| パッケージ                                                | バージョン                                                                                                                             | ドキュメント                                                                                                                                                                                                                                                                          | 説明                                                                        |
 | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | [`something`](#)               | [![npm](https://img.shields.io/npm/v/react-router.svg?style=flat-square)](https://www.npmjs.com/package/:repo)               | [![](https://img.shields.io/badge/API%20Docs-site-green.svg?style=flat-square)](#) [![](https://img.shields.io/badge/API%20Docs-markdown-lightgrey.svg?style=flat-square)](/packages/:repo)          | Something                                                           |
 | [`something`](#)               | [![npm](https://img.shields.io/npm/v/react-router.svg?style=flat-square)](https://www.npmjs.com/package/:repo)               | [![](https://img.shields.io/badge/API%20Docs-site-green.svg?style=flat-square)](#) [![](https://img.shields.io/badge/API%20Docs-markdown-lightgrey.svg?style=flat-square)](/packages/:repo)          | Something                                                           |
 | [`something`](#)               | [![npm](https://img.shields.io/npm/v/react-router.svg?style=flat-square)](https://www.npmjs.com/package/:repo)               | [![](https://img.shields.io/badge/API%20Docs-site-green.svg?style=flat-square)](#) [![](https://img.shields.io/badge/API%20Docs-markdown-lightgrey.svg?style=flat-square)](/packages/:repo)          | Something                                                           |
 | [`something`](#)               | [![npm](https://img.shields.io/npm/v/react-router.svg?style=flat-square)](https://www.npmjs.com/package/:repo)               | [![](https://img.shields.io/badge/API%20Docs-site-green.svg?style=flat-square)](#) [![](https://img.shields.io/badge/API%20Docs-markdown-lightgrey.svg?style=flat-square)](/packages/:repo)          | Something                                                           |
 
-> **SOMETHING:** bluh bluh.
+> **ただし:** こんなことがあります。
 
 <img src="#" alt="some instruction">
 
@@ -69,8 +69,8 @@ Description.
 
 Description.
 
-- Should have this.
-- Should have this.
+- これが必要です。
+- これが必要です。
 
 <img src="#" alt="some instruction">
 
@@ -105,14 +105,14 @@ Description.
 
 # 8. Contributions
 
-Look at [CONTRIBUTING.md](#) for the guidelines.
+PRのガイドラインに関しては、[CONTRIBUTING.md](#)を参照してください。
 
 <img src="#" alt="some instruction">
 
 
 # 9. License
 
-Content submitted to [this app]() is #### licensed, as found in the [LICENSE-DOCS.md](#) file.
+[このアプリ]()のライセンスは、 ####に帰属しています。詳細は、[LICENSE-DOCS.md](#)を参照してください。
 
 <img src="#" alt="some instruction">
 
